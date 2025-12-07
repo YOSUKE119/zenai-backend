@@ -1,0 +1,21 @@
+{
+  "name": "zenai-backend",
+  "version": "1.0.0",
+  "description": "ZEN.AI backend API for OpenAI integration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zenai",
+    "openai",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^13.6.0",
+    "openai": "^4.77.3"
+  }
+}
